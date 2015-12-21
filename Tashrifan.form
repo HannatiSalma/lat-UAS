@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+                      <Component id="id" min="-2" pref="60" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace pref="107" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="taukid" min="-2" max="-2" attributes="0"/>
+                          <Component id="mimi" min="-2" max="-2" attributes="0"/>
+                          <Component id="zaman" min="-2" max="-2" attributes="0"/>
+                          <Component id="makan" min="-2" max="-2" attributes="0"/>
+                          <Component id="alat" min="-2" max="-2" attributes="0"/>
+                          <Component id="nahyi" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="amar" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="maful" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="fail" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="mudori" min="-2" max="-2" attributes="0"/>
+                          <Component id="madi" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="talat" alignment="1" min="-2" pref="125" max="-2" attributes="0"/>
+                          <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                              <Component id="tmudori" alignment="1" min="-2" pref="124" max="-2" attributes="0"/>
+                              <Group type="103" alignment="1" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="tmakan" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="tamar" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="tmaful" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="tfail" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="tnahyi" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="tzaman" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="tmimi" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="ttaukid" alignment="0" min="-2" pref="125" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="tmadi" alignment="1" min="-2" pref="124" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jButton2" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="jButton1" alignment="1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="id" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="15" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace pref="36" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="tmadi" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="madi" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="tmudori" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="mudori" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="ttaukid" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="taukid" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="tmimi" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="mimi" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="tfail" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="fail" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="tmaful" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="maful" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="amar" min="-2" pref="14" max="-2" attributes="0"/>
+                  <Component id="tamar" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="tnahyi" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="nahyi" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="tzaman" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="zaman" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="tmakan" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="makan" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="talat" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="alat" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="madi">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Fi&apos;il madhi"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="mudori">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Fi&apos;il Mudhari&apos;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="taukid">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Mashdar Taukid"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="mimi">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="MashdarMimi"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="fail">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Isim Fa&apos;il"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="maful">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Isim Maf&apos;ul"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="amar">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Fi&apos;il Amar"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="nahyi">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Fi&apos;il Nahyi"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="zaman">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Isim Zaman"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="makan">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Isim Makan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="alat">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Isim Alat"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="tmadi">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+          <Color id="Text Cursor"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="tmadiActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="tmudori">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ttaukid">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="tmimi">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="tfail">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="tmaful">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="tamar">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="tnahyi">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="tzaman">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="tmakan">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="talat">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Kembali"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Tampilkan"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="id">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="idActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
