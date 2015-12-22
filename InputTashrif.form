@@ -23,51 +23,57 @@
   <Layout>
     <DimensionLayout dim="0">
       <Group type="103" groupAlignment="0" attributes="0">
-          <Group type="102" attributes="0">
-              <EmptySpace pref="119" max="32767" attributes="0"/>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="-2" pref="101" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
-                  <Component id="taukid" min="-2" max="-2" attributes="0"/>
-                  <Component id="mimi" min="-2" max="-2" attributes="0"/>
-                  <Component id="zaman" min="-2" max="-2" attributes="0"/>
-                  <Component id="makan" min="-2" max="-2" attributes="0"/>
-                  <Component id="alat" min="-2" max="-2" attributes="0"/>
-                  <Component id="nahyi" alignment="0" min="-2" max="-2" attributes="0"/>
-                  <Component id="amar" alignment="0" min="-2" max="-2" attributes="0"/>
-                  <Component id="maful" alignment="0" min="-2" max="-2" attributes="0"/>
-                  <Component id="fail" alignment="0" min="-2" max="-2" attributes="0"/>
-                  <Component id="mudori" min="-2" max="-2" attributes="0"/>
-                  <Component id="madi" min="-2" max="-2" attributes="0"/>
-              </Group>
-              <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
-              <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                  <Component id="twazan" max="32767" attributes="0"/>
-                  <Component id="talat" alignment="0" pref="125" max="32767" attributes="0"/>
-                  <Component id="tmudori" alignment="0" max="32767" attributes="0"/>
-                  <Component id="tmakan" alignment="1" max="32767" attributes="0"/>
-                  <Component id="tamar" alignment="1" max="32767" attributes="0"/>
-                  <Component id="tmaful" alignment="1" max="32767" attributes="0"/>
-                  <Component id="tfail" alignment="1" max="32767" attributes="0"/>
-                  <Component id="tnahyi" alignment="1" max="32767" attributes="0"/>
-                  <Component id="tzaman" alignment="0" max="32767" attributes="0"/>
-                  <Component id="tmimi" alignment="0" max="32767" attributes="0"/>
-                  <Component id="ttaukid" alignment="0" pref="125" max="32767" attributes="0"/>
-                  <Component id="tmadi" alignment="0" max="32767" attributes="0"/>
-                  <Component id="ttashrif" alignment="0" max="32767" attributes="0"/>
-              </Group>
-              <Group type="103" groupAlignment="0" attributes="0">
-                  <Group type="102" attributes="0">
-                      <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
-                      <Component id="jButton3" min="-2" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="56" max="-2" attributes="0"/>
+                      <Component id="ttashrif" min="-2" pref="125" max="-2" attributes="0"/>
                   </Group>
-                  <Group type="102" alignment="1" attributes="0">
-                      <EmptySpace max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jButton2" alignment="1" min="-2" pref="69" max="-2" attributes="0"/>
-                          <Component id="jButton1" alignment="1" min="-2" pref="69" max="-2" attributes="0"/>
+                          <Component id="taukid" min="-2" max="-2" attributes="0"/>
+                          <Component id="mimi" min="-2" max="-2" attributes="0"/>
+                          <Component id="zaman" min="-2" max="-2" attributes="0"/>
+                          <Component id="makan" min="-2" max="-2" attributes="0"/>
+                          <Component id="alat" min="-2" max="-2" attributes="0"/>
+                          <Component id="nahyi" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="amar" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="maful" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="fail" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="mudori" min="-2" max="-2" attributes="0"/>
+                          <Component id="madi" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="twazan" min="-2" pref="125" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="talat" alignment="0" pref="125" max="32767" attributes="0"/>
+                                  <Component id="tmudori" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="tmakan" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="tamar" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="tmaful" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="tfail" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="tnahyi" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="tzaman" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="tmimi" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="ttaukid" alignment="0" pref="125" max="32767" attributes="0"/>
+                                  <Component id="tmadi" alignment="0" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jButton3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jButton2" alignment="1" min="-2" pref="69" max="-2" attributes="0"/>
+                                  <Component id="jButton1" alignment="1" min="-2" pref="69" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
                       </Group>
                   </Group>
               </Group>
-              <EmptySpace max="-2" attributes="0"/>
+              <EmptySpace pref="28" max="32767" attributes="0"/>
           </Group>
       </Group>
     </DimensionLayout>
@@ -75,8 +81,22 @@
       <Group type="103" groupAlignment="0" attributes="0">
           <Group type="102" attributes="0">
               <EmptySpace max="32767" attributes="0"/>
-              <Component id="ttashrif" min="-2" max="-2" attributes="0"/>
-              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ttashrif" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="twazan" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
               <Group type="103" groupAlignment="3" attributes="0">
                   <Component id="tmadi" alignment="3" min="-2" max="-2" attributes="0"/>
                   <Component id="madi" alignment="3" min="-2" max="-2" attributes="0"/>
@@ -112,31 +132,37 @@
                   <Component id="tamar" min="-2" max="-2" attributes="0"/>
               </Group>
               <EmptySpace max="-2" attributes="0"/>
-              <Group type="103" groupAlignment="3" attributes="0">
-                  <Component id="tnahyi" alignment="3" min="-2" max="-2" attributes="0"/>
-                  <Component id="nahyi" alignment="3" min="-2" max="-2" attributes="0"/>
-              </Group>
-              <EmptySpace max="-2" attributes="0"/>
-              <Group type="103" groupAlignment="3" attributes="0">
-                  <Component id="tzaman" alignment="3" min="-2" max="-2" attributes="0"/>
-                  <Component id="zaman" alignment="3" min="-2" max="-2" attributes="0"/>
-                  <Component id="jButton2" alignment="3" min="-2" max="-2" attributes="0"/>
-              </Group>
-              <EmptySpace max="-2" attributes="0"/>
-              <Group type="103" groupAlignment="3" attributes="0">
-                  <Component id="tmakan" alignment="3" min="-2" max="-2" attributes="0"/>
-                  <Component id="makan" alignment="3" min="-2" max="-2" attributes="0"/>
-                  <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="tnahyi" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="nahyi" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="tzaman" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="zaman" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="tmakan" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="makan" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jButton3" min="-2" pref="20" max="-2" attributes="0"/>
+                  </Group>
               </Group>
               <EmptySpace max="-2" attributes="0"/>
               <Group type="103" groupAlignment="3" attributes="0">
                   <Component id="talat" alignment="3" min="-2" max="-2" attributes="0"/>
                   <Component id="alat" alignment="3" min="-2" max="-2" attributes="0"/>
-                  <Component id="jButton3" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
               </Group>
               <EmptySpace max="-2" attributes="0"/>
-              <Component id="twazan" min="-2" max="-2" attributes="0"/>
-              <EmptySpace min="-2" pref="9" max="-2" attributes="0"/>
           </Group>
       </Group>
     </DimensionLayout>
@@ -254,6 +280,16 @@
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
       </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Id Tashrif"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Id Wazan"/>
+      </Properties>
     </Component>
   </SubComponents>
 </Form>

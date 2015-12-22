@@ -31,7 +31,6 @@ public class MenuUtama extends javax.swing.JFrame {
         dpane = new javax.swing.JDesktopPane();
         Menubar1 = new javax.swing.JMenuBar();
         Menu = new javax.swing.JMenu();
-        btasrif = new javax.swing.JMenuItem();
         belajar = new javax.swing.JMenuItem();
         cari = new javax.swing.JMenuItem();
         jMenuItem2 = new javax.swing.JMenuItem();
@@ -60,14 +59,6 @@ public class MenuUtama extends javax.swing.JFrame {
                 MenuActionPerformed(evt);
             }
         });
-
-        btasrif.setText("Bagan Tashrif");
-        btasrif.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                btasrifActionPerformed(evt);
-            }
-        });
-        Menu.add(btasrif);
 
         belajar.setText("Belajar");
         belajar.addActionListener(new java.awt.event.ActionListener() {
@@ -117,10 +108,6 @@ public class MenuUtama extends javax.swing.JFrame {
         this.dispose();
     }//GEN-LAST:event_belajarActionPerformed
 
-    private void btasrifActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btasrifActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_btasrifActionPerformed
-
     private void jMenuItem2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem2ActionPerformed
         // TODO add your handling code here:
         new Login().setVisible(true);
@@ -166,7 +153,6 @@ public class MenuUtama extends javax.swing.JFrame {
     private javax.swing.JMenu Menu;
     private javax.swing.JMenuBar Menubar1;
     private javax.swing.JMenuItem belajar;
-    private javax.swing.JMenuItem btasrif;
     private javax.swing.JMenuItem cari;
     private javax.swing.JDesktopPane dpane;
     private javax.swing.JMenuItem jMenuItem2;

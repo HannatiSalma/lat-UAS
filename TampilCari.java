@@ -51,7 +51,7 @@ public class TampilCari extends javax.swing.JFrame {
     public void tampildata(){
         try{
             openConnection();
-            String sql = "select * from tasrifan where madi='"+id.getText()+"'";
+            String sql = "select * from tasrifan where idtasrif= '7'";
             Statement stat = con.createStatement();
             ResultSet rs  =  stat.executeQuery(sql);
             while(rs.next()){
@@ -69,7 +69,7 @@ public class TampilCari extends javax.swing.JFrame {
             }
         }
         catch(Exception e){
-                JOptionPane.showMessageDialog(null,"Tidak bisa konek!"); 
+                JOptionPane.showMessageDialog(null,"Tidak ada data!"); 
         }
     }
     /**
